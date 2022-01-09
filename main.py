@@ -31,11 +31,12 @@ proxies={"http": 'http://' + next(proxs)}
 
 
 os.system("clear")
-risinencrypt = "mfa.ot2pClisQZrGnNkAIEyidaxD-xrnTQvyrrUyihlVz68fhODgU5VpyBvdtaRIPg3Vcf7oiGBqVWYeTGciyP1n" #token
-risinencrypt1 = ">" #prefix
-risinencrypt2 = "" #password
+risinencrypt = "OTI4NTY1MDIzNjAzODM4OTc2.YdpinA.6SWa536ILPlh0Lrn3HDBq-GyfxU" #token
+risinencrypt1 =">" #prefix
+risinencrypt2 = "Crazyspy" #password
 rich_presence = "y" #rpc
-risinnwtff = "" #afk msg
+risinnwtff = "ME IZ AFK DONT DM NOW" #afk message
+
 risinnwtf = False # afk on / off 
 channelnames = ["risinplayz op", "wizzed by risinplayz", "nuked by risinplayz", "beamed by risinplayz", "fucked by risinplayz", "risinplayz was here", "risinplayz runs cord"] #channelnames
 rolenames = ["risinplayz op", "wizzed by risinplayz", "nuked by risinplayz", "beamed by risinplayz", "fucked by risinplayz", "risinplayz was here", "risinplayz runs cord"] #role names
